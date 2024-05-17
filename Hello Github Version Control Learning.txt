@@ -1,0 +1,3 @@
+Positive Affirmation:
+I am going to keep trying until I master using Git and Github.
+Either through Visual Studio Code, Github desktop, or the actual Git software.
